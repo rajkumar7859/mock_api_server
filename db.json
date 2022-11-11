@@ -135,5 +135,6 @@
 {"food":"Pepper - Green Thai","protein":29,"carbs":376,"sodium":7,"fat":25,"sugar":56},
 {"food":"Beef Tenderloin Aaa","protein":1,"carbs":189,"sodium":9,"fat":15,"sugar":23},
 {"food":"Bread - Pullman, Sliced","protein":7,"carbs":566,"sodium":7,"fat":38,"sugar":20}
-  ]
+  ],
+  "AddedBreakfast":[]
 }
