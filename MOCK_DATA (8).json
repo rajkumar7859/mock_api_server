@@ -1,9 +1,4 @@
-{
-  "callback": [],
-  "register":[],
-  "user":[],
-  "breakfast":[ 
-    {"food":"Juice - Clam, 46 Oz","protein":28,"carbs":331,"sodium":5,"fat":28,"sugar":38},
+[{"food":"Juice - Clam, 46 Oz","protein":28,"carbs":331,"sodium":5,"fat":28,"sugar":38},
 {"food":"Lamb - Pieces, Diced","protein":5,"carbs":600,"sodium":10,"fat":50,"sugar":22},
 {"food":"Bread - Petit Baguette","protein":15,"carbs":496,"sodium":8,"fat":32,"sugar":52},
 {"food":"Sauce - Ranch Dressing","protein":20,"carbs":95,"sodium":9,"fat":42,"sugar":10},
@@ -102,38 +97,4 @@
 {"food":"Soap - Pine Sol Floor Cleaner","protein":9,"carbs":242,"sodium":5,"fat":50,"sugar":15},
 {"food":"Pepper - Green Thai","protein":29,"carbs":376,"sodium":7,"fat":25,"sugar":56},
 {"food":"Beef Tenderloin Aaa","protein":1,"carbs":189,"sodium":9,"fat":15,"sugar":23},
-{"food":"Bread - Pullman, Sliced","protein":7,"carbs":566,"sodium":7,"fat":38,"sugar":20}
-  ],
-  "lunch":[
-    {"food":"Chervil - Fresh","protein":21,"carbs":116,"sodium":2,"fat":48,"sugar":60},
-{"food":"Sugar - Fine","protein":26,"carbs":16,"sodium":4,"fat":24,"sugar":33},
-{"food":"Chips Potato Salt Vinegar 43g","protein":7,"carbs":109,"sodium":9,"fat":38,"sugar":82},
-{"food":"Tomatoes - Orange","protein":17,"carbs":145,"sodium":2,"fat":29,"sugar":19},
-{"food":"Pork - Backfat","protein":16,"carbs":569,"sodium":3,"fat":21,"sugar":70},
-{"food":"Ham - Smoked, Bone - In","protein":2,"carbs":460,"sodium":3,"fat":8,"sugar":72},
-{"food":"Extract - Rum","protein":19,"carbs":327,"sodium":7,"fat":17,"sugar":91},
-{"food":"Cauliflower","protein":26,"carbs":508,"sodium":2,"fat":31,"sugar":65},
-{"food":"Appetizer - Assorted Box","protein":25,"carbs":516,"sodium":8,"fat":18,"sugar":32},
-{"food":"Bread - Rye","protein":6,"carbs":219,"sodium":9,"fat":36,"sugar":52},
-{"food":"Soap - Pine Sol Floor Cleaner","protein":9,"carbs":242,"sodium":5,"fat":50,"sugar":15},
-{"food":"Pepper - Green Thai","protein":29,"carbs":376,"sodium":7,"fat":25,"sugar":56},
-{"food":"Beef Tenderloin Aaa","protein":1,"carbs":189,"sodium":9,"fat":15,"sugar":23},
-{"food":"Bread - Pullman, Sliced","protein":7,"carbs":566,"sodium":7,"fat":38,"sugar":20}
-  ],
-  "snacks":[
-    {"food":"Chervil - Fresh","protein":21,"carbs":116,"sodium":2,"fat":48,"sugar":60},
-{"food":"Sugar - Fine","protein":26,"carbs":16,"sodium":4,"fat":24,"sugar":33},
-{"food":"Chips Potato Salt Vinegar 43g","protein":7,"carbs":109,"sodium":9,"fat":38,"sugar":82},
-{"food":"Tomatoes - Orange","protein":17,"carbs":145,"sodium":2,"fat":29,"sugar":19},
-{"food":"Pork - Backfat","protein":16,"carbs":569,"sodium":3,"fat":21,"sugar":70},
-{"food":"Ham - Smoked, Bone - In","protein":2,"carbs":460,"sodium":3,"fat":8,"sugar":72},
-{"food":"Extract - Rum","protein":19,"carbs":327,"sodium":7,"fat":17,"sugar":91},
-{"food":"Cauliflower","protein":26,"carbs":508,"sodium":2,"fat":31,"sugar":65},
-{"food":"Appetizer - Assorted Box","protein":25,"carbs":516,"sodium":8,"fat":18,"sugar":32},
-{"food":"Bread - Rye","protein":6,"carbs":219,"sodium":9,"fat":36,"sugar":52},
-{"food":"Soap - Pine Sol Floor Cleaner","protein":9,"carbs":242,"sodium":5,"fat":50,"sugar":15},
-{"food":"Pepper - Green Thai","protein":29,"carbs":376,"sodium":7,"fat":25,"sugar":56},
-{"food":"Beef Tenderloin Aaa","protein":1,"carbs":189,"sodium":9,"fat":15,"sugar":23},
-{"food":"Bread - Pullman, Sliced","protein":7,"carbs":566,"sodium":7,"fat":38,"sugar":20}
-  ]
-}
+{"food":"Bread - Pullman, Sliced","protein":7,"carbs":566,"sodium":7,"fat":38,"sugar":20}]
